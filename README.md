@@ -1,4 +1,5 @@
-# pjwang3-davidrw3-esliu3
+# Wikiracer - CS225
+### Eric Liu, Phyllis Wang, David Wallach
 
 ## Becoming the Fastest Wikipedia Racer
 
@@ -9,7 +10,7 @@ The database that we are using is an outdated version of Wikipedia, so some path
 ### Compiling
 Run ```make``` from the command line.
 
-### Running - add option for input dataset?
+### Running
 Run ```./exec [search] [starting article] [target article] [output file name] [links]?```. \[links] is an optional field that allows the user to pass in a dataset of their own. 
 
 Replace [search] with the desired search, without the brackets. The options are: ```bfs```, ```befs```, ```iddfs```.
